@@ -1,4 +1,4 @@
-package com.mrblab.admin;
+package com.pws.admin;
 
 import io.flutter.embedding.android.FlutterActivity;
 
